@@ -2,7 +2,7 @@
 ###### Muhammad Azis Husein | 1806191622 | OS A
 
 ---
-![Foto Azis](/foto_saya_cropped.jpg)
+<img src="foto_saya_cropped.jpg" width="256">
 ---
 
 website ini adalah github pages untuk UAS mata kuliah Operating System (OS201)
